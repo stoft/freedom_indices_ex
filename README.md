@@ -1,6 +1,11 @@
 # FreedomIndices
 
-**TODO: Add description**
+Lookup the country entry in freedom indices.
+
+See https://en.wikipedia.org/wiki/List_of_freedom_indices for more info on freedom indices.
+
+- [x] Freedom House
+- [ ] 
 
 ## Installation
 
