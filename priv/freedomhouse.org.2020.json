@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "Abkhazia",
+    "type": "territory",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 40
+  },
+  {
+    "name": "Afghanistan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 27
+  },
+  {
+    "name": "Albania",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 67
+  },
+  {
+    "name": "Algeria",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 34
+  },
+  {
+    "name": "Andorra",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "Angola",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 32
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 85
+  },
+  {
+    "name": "Argentina",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 85
+  },
+  {
+    "name": "Armenia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 53
+  },
+  {
+    "name": "Australia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 97
+  },
+  {
+    "name": "Austria",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Azerbaijan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 10
+  },
+  {
+    "name": "Bahamas",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 91
+  },
+  {
+    "name": "Bahrain",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 11
+  },
+  {
+    "name": "Bangladesh",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 39
+  },
+  {
+    "name": "Barbados",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 95
+  },
+  {
+    "name": "Belarus",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 19
+  },
+  {
+    "name": "Belgium",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 96
+  },
+  {
+    "name": "Belize",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 86
+  },
+  {
+    "name": "Benin",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 66
+  },
+  {
+    "name": "Bhutan",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 59
+  },
+  {
+    "name": "Bolivia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 63
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 53
+  },
+  {
+    "name": "Botswana",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 72
+  },
+  {
+    "name": "Brazil",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 75
+  },
+  {
+    "name": "Brunei",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 28
+  },
+  {
+    "name": "Bulgaria",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 80
+  },
+  {
+    "name": "Burkina Faso",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 56
+  },
+  {
+    "name": "Burundi",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 13
+  },
+  {
+    "name": "Cabo Verde",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 92
+  },
+  {
+    "name": "Cambodia",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 25
+  },
+  {
+    "name": "Cameroon",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 18
+  },
+  {
+    "name": "Canada",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 98
+  },
+  {
+    "name": "Central African Republic",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 10
+  },
+  {
+    "name": "Chad",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 17
+  },
+  {
+    "name": "Chile",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 90
+  },
+  {
+    "name": "China",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 10
+  },
+  {
+    "name": "Colombia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 66
+  },
+  {
+    "name": "Comoros",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 44
+  },
+  {
+    "name": "Congo (Brazzaville)",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 20
+  },
+  {
+    "name": "Congo (Kinshasa)",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 18
+  },
+  {
+    "name": "Costa Rica",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 91
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 51
+  },
+  {
+    "name": "Crimea",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 8
+  },
+  {
+    "name": "Croatia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 85
+  },
+  {
+    "name": "Cuba",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 14
+  },
+  {
+    "name": "Cyprus",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "Czech Republic",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 91
+  },
+  {
+    "name": "Denmark",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 97
+  },
+  {
+    "name": "Djibouti",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 24
+  },
+  {
+    "name": "Dominica",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Dominican Republic",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 67
+  },
+  {
+    "name": "Eastern Donbas",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 5
+  },
+  {
+    "name": "Ecuador",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 65
+  },
+  {
+    "name": "Egypt",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 21
+  },
+  {
+    "name": "El Salvador",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 66
+  },
+  {
+    "name": "Equatorial Guinea",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 6
+  },
+  {
+    "name": "Eritrea",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 2
+  },
+  {
+    "name": "Estonia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "Eswatini",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 19
+  },
+  {
+    "name": "Ethiopia",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 24
+  },
+  {
+    "name": "Fiji",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 60
+  },
+  {
+    "name": "Finland",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 100
+  },
+  {
+    "name": "France",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 90
+  },
+  {
+    "name": "Gabon",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 22
+  },
+  {
+    "name": "Gaza Strip",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 11
+  },
+  {
+    "name": "Georgia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 61
+  },
+  {
+    "name": "Germany",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "Ghana",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 82
+  },
+  {
+    "name": "Greece",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 88
+  },
+  {
+    "name": "Grenada",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 89
+  },
+  {
+    "name": "Guatemala",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 52
+  },
+  {
+    "name": "Guinea",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 40
+  },
+  {
+    "name": "Guinea-Bissau",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 46
+  },
+  {
+    "name": "Guyana",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 74
+  },
+  {
+    "name": "Haiti",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 38
+  },
+  {
+    "name": "Honduras",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 45
+  },
+  {
+    "name": "Hong Kong",
+    "type": "territory",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 55
+  },
+  {
+    "name": "Hungary",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 70
+  },
+  {
+    "name": "Iceland",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "India",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 71
+  },
+  {
+    "name": "Indian Kashmir",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 28
+  },
+  {
+    "name": "Indonesia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 61
+  },
+  {
+    "name": "Iran",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 17
+  },
+  {
+    "name": "Iraq",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 31
+  },
+  {
+    "name": "Ireland",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 97
+  },
+  {
+    "name": "Israel",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 76
+  },
+  {
+    "name": "Italy",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 89
+  },
+  {
+    "name": "Jamaica",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 78
+  },
+  {
+    "name": "Japan",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 96
+  },
+  {
+    "name": "Jordan",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 37
+  },
+  {
+    "name": "Kazakhstan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 23
+  },
+  {
+    "name": "Kenya",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 48
+  },
+  {
+    "name": "Kiribati",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Kosovo",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 56
+  },
+  {
+    "name": "Kuwait",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 36
+  },
+  {
+    "name": "Kyrgyzstan",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 39
+  },
+  {
+    "name": "Laos",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 14
+  },
+  {
+    "name": "Latvia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 89
+  },
+  {
+    "name": "Lebanon",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 44
+  },
+  {
+    "name": "Lesotho",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 63
+  },
+  {
+    "name": "Liberia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 60
+  },
+  {
+    "name": "Libya",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 9
+  },
+  {
+    "name": "Liechtenstein",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 90
+  },
+  {
+    "name": "Lithuania",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 91
+  },
+  {
+    "name": "Luxembourg",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 98
+  },
+  {
+    "name": "Madagascar",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 61
+  },
+  {
+    "name": "Malawi",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 62
+  },
+  {
+    "name": "Malaysia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 52
+  },
+  {
+    "name": "Maldives",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 40
+  },
+  {
+    "name": "Mali",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 41
+  },
+  {
+    "name": "Malta",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 90
+  },
+  {
+    "name": "Marshall Islands",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Mauritania",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 34
+  },
+  {
+    "name": "Mauritius",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 89
+  },
+  {
+    "name": "Mexico",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 62
+  },
+  {
+    "name": "Micronesia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 92
+  },
+  {
+    "name": "Moldova",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 60
+  },
+  {
+    "name": "Monaco",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 83
+  },
+  {
+    "name": "Mongolia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 84
+  },
+  {
+    "name": "Montenegro",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 62
+  },
+  {
+    "name": "Morocco",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 37
+  },
+  {
+    "name": "Mozambique",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 45
+  },
+  {
+    "name": "Myanmar",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 30
+  },
+  {
+    "name": "Nagorno-Karabakh",
+    "type": "territory",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 34
+  },
+  {
+    "name": "Namibia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 77
+  },
+  {
+    "name": "Nauru",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 77
+  },
+  {
+    "name": "Nepal",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 56
+  },
+  {
+    "name": "Netherlands",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 99
+  },
+  {
+    "name": "New Zealand",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 97
+  },
+  {
+    "name": "Nicaragua",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 31
+  },
+  {
+    "name": "Niger",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 48
+  },
+  {
+    "name": "Nigeria",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 47
+  },
+  {
+    "name": "North Korea",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 3
+  },
+  {
+    "name": "North Macedonia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 63
+  },
+  {
+    "name": "Northern Cyprus",
+    "type": "territory",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 81
+  },
+  {
+    "name": "Norway",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 100
+  },
+  {
+    "name": "Oman",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 23
+  },
+  {
+    "name": "Pakistan",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 38
+  },
+  {
+    "name": "Pakistani Kashmir",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 28
+  },
+  {
+    "name": "Palau",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 92
+  },
+  {
+    "name": "Panama",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 84
+  },
+  {
+    "name": "Papua New Guinea",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 62
+  },
+  {
+    "name": "Paraguay",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 65
+  },
+  {
+    "name": "Peru",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 72
+  },
+  {
+    "name": "Philippines",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 59
+  },
+  {
+    "name": "Poland",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 84
+  },
+  {
+    "name": "Portugal",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 96
+  },
+  {
+    "name": "Qatar",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 25
+  },
+  {
+    "name": "Romania",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 83
+  },
+  {
+    "name": "Russia",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 20
+  },
+  {
+    "name": "Rwanda",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 22
+  },
+  {
+    "name": "Samoa",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 81
+  },
+  {
+    "name": "San Marino",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 95
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 84
+  },
+  {
+    "name": "Saudi Arabia",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 7
+  },
+  {
+    "name": "Senegal",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 71
+  },
+  {
+    "name": "Serbia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 66
+  },
+  {
+    "name": "Seychelles",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 72
+  },
+  {
+    "name": "Sierra Leone",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 65
+  },
+  {
+    "name": "Singapore",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 50
+  },
+  {
+    "name": "Slovakia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 88
+  },
+  {
+    "name": "Slovenia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "Solomon Islands",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 79
+  },
+  {
+    "name": "Somalia",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 7
+  },
+  {
+    "name": "Somaliland",
+    "type": "territory",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 41
+  },
+  {
+    "name": "South Africa",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 79
+  },
+  {
+    "name": "South Korea",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 83
+  },
+  {
+    "name": "South Ossetia",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 10
+  },
+  {
+    "name": "South Sudan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 2
+  },
+  {
+    "name": "Spain",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 92
+  },
+  {
+    "name": "Sri Lanka",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 56
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 89
+  },
+  {
+    "name": "St. Lucia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 92
+  },
+  {
+    "name": "St. Vincent and the Grenadines",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 91
+  },
+  {
+    "name": "Sudan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 12
+  },
+  {
+    "name": "Suriname",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 75
+  },
+  {
+    "name": "Sweden",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 100
+  },
+  {
+    "name": "Switzerland",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 96
+  },
+  {
+    "name": "Syria",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 0
+  },
+  {
+    "name": "Taiwan",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Tajikistan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 9
+  },
+  {
+    "name": "Tanzania",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 40
+  },
+  {
+    "name": "Thailand",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 32
+  },
+  {
+    "name": "The Gambia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 46
+  },
+  {
+    "name": "Tibet",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 1
+  },
+  {
+    "name": "Timor-Leste",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 71
+  },
+  {
+    "name": "Togo",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 44
+  },
+  {
+    "name": "Tonga",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 79
+  },
+  {
+    "name": "Transnistria",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 22
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 82
+  },
+  {
+    "name": "Tunisia",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 70
+  },
+  {
+    "name": "Turkey",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 32
+  },
+  {
+    "name": "Turkmenistan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 2
+  },
+  {
+    "name": "Tuvalu",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 93
+  },
+  {
+    "name": "Uganda",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 6,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 34
+  },
+  {
+    "name": "Ukraine",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 3,
+    "civil_liberties_rating": 3,
+    "aggregate_score": 62
+  },
+  {
+    "name": "United Arab Emirates",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 17
+  },
+  {
+    "name": "United Kingdom",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 94
+  },
+  {
+    "name": "United States",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 86
+  },
+  {
+    "name": "Uruguay",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 1,
+    "civil_liberties_rating": 1,
+    "aggregate_score": 98
+  },
+  {
+    "name": "Uzbekistan",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 10
+  },
+  {
+    "name": "Vanuatu",
+    "type": "country",
+    "freedom_status": "Free",
+    "political_rights_rating": 2,
+    "civil_liberties_rating": 2,
+    "aggregate_score": 82
+  },
+  {
+    "name": "Venezuela",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 16
+  },
+  {
+    "name": "Vietnam",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 20
+  },
+  {
+    "name": "West Bank",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 25
+  },
+  {
+    "name": "Western Sahara",
+    "type": "territory",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 7,
+    "aggregate_score": 4
+  },
+  {
+    "name": "Yemen",
+    "type": "country",
+    "freedom_status": "Not Free",
+    "political_rights_rating": 7,
+    "civil_liberties_rating": 6,
+    "aggregate_score": 11
+  },
+  {
+    "name": "Zambia",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 4,
+    "civil_liberties_rating": 4,
+    "aggregate_score": 54
+  },
+  {
+    "name": "Zimbabwe",
+    "type": "country",
+    "freedom_status": "Partly Free",
+    "political_rights_rating": 5,
+    "civil_liberties_rating": 5,
+    "aggregate_score": 29
+  }
+]
